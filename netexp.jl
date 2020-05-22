@@ -219,19 +219,19 @@ end
 ########################################
 #seedkey = "Enceladus_test"
 
-SEEDJSON = "rseeds_5w.dat"
+SEEDJSON = "seeds/rseeds_ALL.dat"
 TARGETJSON = "links/Freilich09.json"
 
 # # fsplit = split(DATADIR,"/")
 # # OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/simple/5w/"
+OUTDIR = "results/simple/ALL/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)
 end
 
 #reaction edges
-reaction_edges_json = "links/reaction_edges.json"
+reaction_edges_json = "links/reaction_edges_curated2.json"
 
 open(SEEDJSON) do file
     count = 0
