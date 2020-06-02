@@ -1,0 +1,151 @@
+Ethylene
+Average: 7.02
+Confidence interval: (6.544740908452543, 7.495259091547456)
+
+Sodium cation
+Average: 6.91
+Confidence interval: (6.410972335508798, 7.4090276644912025)
+
+Hydrogen cyanide
+Average: 6.94
+Confidence interval: (6.446804054016447, 7.433195945983554)
+
+Methanol
+Average: 6.85
+Confidence interval: (6.387123428148282, 7.312876571851717)
+
+HCO3-
+Average: 6.46
+Confidence interval: (5.978555496321954, 6.941444503678046)
+
+Diacetyl
+Average: 6.45
+Confidence interval: (5.963661351451594, 6.936338648548406)
+
+2,5-Dihydroxypyridine
+Average: 6.71
+Confidence interval: (6.270100824504582, 7.149899175495418)
+
+Propane
+Average: 7.77
+Confidence interval: (7.298205263552427, 8.241794736447572)
+
+HO-
+Average: 7.42
+Confidence interval: (6.973919899228234, 7.866080100771766)
+
+Propylene
+Average: 7.21
+Confidence interval: (6.766499387580785, 7.653500612419215)
+
+Formaldehyde
+Average: 7.19
+Confidence interval: (6.677914195980376, 7.7020858040196245)
+
+Ethanol
+Average: 7.3
+Confidence interval: (6.831041811043799, 7.7689581889562005)
+
+Butane
+Average: 6.89
+Confidence interval: (6.435341286949837, 7.344658713050162)
+
+Nitric oxide
+Average: 7.63
+Confidence interval: (7.12498350402262, 8.135016495977379)
+
+Methane
+Average: 28.8
+Confidence interval: (28.47720841533514, 29.12279158466486)
+
+Benzene
+Average: 7.29
+Confidence interval: (6.822064797734868, 7.7579352022651324)
+
+1-Butanol
+Average: 6.47
+Confidence interval: (5.981149263368473, 6.958850736631526)
+
+CO
+Average: 5.83
+Confidence interval: (5.391223272117811, 6.268776727882189)
+
+Oxygen
+Average: 7.21
+Confidence interval: (6.748052261134187, 7.671947738865813)
+
+Glycolaldehyde
+Average: 6.87
+Confidence interval: (6.419948037369893, 7.3200519626301075)
+
+Hydrogen sulfide
+Average: 7.5
+Confidence interval: (6.978064491406133, 8.021935508593867)
+
+CO2
+Average: 29.85
+Confidence interval: (29.43900337834704, 30.260996621652964)
+
+Ethanolamine
+Average: 7.06
+Confidence interval: (6.538582874594011, 7.581417125405988)
+
+L-Alanine
+Average: 8.13
+Confidence interval: (7.697062818474172, 8.562937181525829)
+
+Propanal
+Average: 6.3
+Confidence interval: (5.884073887664295, 6.715926112335705)
+
+Methylamine
+Average: 7.21
+Confidence interval: (6.743767655335266, 7.676232344664734)
+
+Ethylene oxide
+Average: 6.81
+Confidence interval: (6.311291208152415, 7.308708791847584)
+
+Acetylene
+Average: 6.64
+Confidence interval: (6.149472226548272, 7.130527773451727)
+
+Dimethylamine
+Average: 7.9
+Confidence interval: (7.389621691461985, 8.410378308538014)
+
+H2O
+Average: 29.81
+Confidence interval: (29.3891359896166, 30.230864010383396)
+
+Hydrogen peroxide
+Average: 8.53
+Confidence interval: (8.01887809378987, 9.04112190621013)
+
+Nitrogen
+Average: 7.74
+Confidence interval: (7.231870753032693, 8.248129246967308)
+
+Carbonic acid
+Average: 8.79
+Confidence interval: (8.229278489837407, 9.350721510162591)
+
+Ethylene glycol
+Average: 8.29
+Confidence interval: (7.745105226141476, 8.834894773858522)
+
+Hydrogen
+Average: 29.68
+Confidence interval: (29.301750819694583, 30.058249180305417)
+
+Ammonia
+Average: 29.86
+Confidence interval: (29.47742281325476, 30.24257718674524)
+
+Octane
+Average: 6.5
+Confidence interval: (6.085990608058998, 6.914009391941002)
+
+Propane-1-ol
+Average: 6.66
+Confidence interval: (6.207687153104879, 7.112312846895121)

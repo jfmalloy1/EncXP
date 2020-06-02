@@ -1,0 +1,10 @@
+10nw random
+----
+Mean: 69.5
+Confidence Range: (68.58722534628377, 70.41277465371623)
+
+
+10nw fixed
+----
+Mean: 82.6
+Confidence Range: (81.82970696703397, 83.37029303296602)
