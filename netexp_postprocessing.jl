@@ -143,11 +143,11 @@ end
 #########################
 ### FORMAT MANY FILES
 #########################
-const DATADIR = "results/simple/ALL/"
+const DATADIR = "results/simple/LUCA/"
 
 # # fsplit = split(DATADIR,"/")
 # # OUTDIR = "results/formatted/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-const OUTDIR = "results/formatted/ALL/"
+const OUTDIR = "results/formatted/LUCA/"
 
 if !ispath(OUTDIR)
      mkpath(OUTDIR)

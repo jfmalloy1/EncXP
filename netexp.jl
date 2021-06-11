@@ -219,12 +219,12 @@ end
 ########################################
 #seedkey = "Enceladus_test"
 
-SEEDJSON = "seeds/rseeds_ALL.dat"
+SEEDJSON = "seeds/luca.txt"
 TARGETJSON = "links/Freilich09.json"
 
 # # fsplit = split(DATADIR,"/")
 # # OUTDIR = "results/simple/"*fsplit[end-2]*"/"*fsplit[end-1]*"/"
-OUTDIR = "results/simple/ALL/"
+OUTDIR = "results/simple/"
 
 if ispath(OUTDIR)==false
     mkpath(OUTDIR)
@@ -239,6 +239,7 @@ open(SEEDJSON) do file
             ## DO MAIN
             (R,P,compounds,reactions,t) = prepare_matrices_and_targets(reaction_edges_json,TARGETJSON)
             x = prepare_seeds(String.(reduce(vcat,split.(ln))),compounds)
+            print(x)
 
             #necessary for network expansion
             RT = transpose(R)
@@ -248,7 +249,7 @@ open(SEEDJSON) do file
 
             (X,Y) = netexp(R, P, RT, PT, b, bp, x)
             println("Writing out netexp"*string(count)*"...")
-            simple_write_out(OUTDIR*"enc_exp"*string(count)*".json",x,t,compounds,reactions,X,Y)
+            simple_write_out(OUTDIR*"luca"*string(count)*".json",x,t,compounds,reactions,X,Y)
             count = count + 1
     end
 end
